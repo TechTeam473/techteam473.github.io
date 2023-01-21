@@ -1,7 +1,7 @@
 ---
 title: "Fable"
 excerpt: "A magical RPG"
-permalink: fable
+permalink: /fable/
 indexing: false
 sitemap: false
 ---
