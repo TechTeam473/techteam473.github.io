@@ -1,8 +1,8 @@
 ---
-layout: page
-title: About
-permalink: /about/
+title: About Us
+excerpt: "We're a six person team who share a love of computer science. We host a wide variety of skills and passions that allow us to make incredible things. Our current project is Fable, an open world RPG filled with magical calamities and governmental tensions."
 ---
+
 
 <style>
     p.name-desc {
@@ -15,13 +15,15 @@ permalink: /about/
     h3.name {
         margin: 0px 0px 0px 0px;
     }
+    
+    hr.shorter {
+        padding: 25px 0px 25px 0px;
+    }
 </style>
 
-## Us
 We're a six person team who share a love of computer science. We host a wide variety of skills and passions that allow us to make incredible things. Our current project is Fable, an open world RPG filled with magical calamities and governmental tensions.
 
-<hr>
-<br>
+<hr class="shorter">
 
 <h2>Our Team:</h2>
 
@@ -47,4 +49,4 @@ Landen is our sound designer who loves to game. From Ark: Survival Evolved to Te
 
 <h3 class="name">Molly</h3>
 <p class="name-desc">Programmer ⚬ Voice Actor</p>
-Molly is certified in c#. She's very talented in computer science, whether it be programming or hardware. She's certified in Python and Java, and she's working on her CompTIA certification.
+Molly is very talented in computer science, whether it be programming or hardware. She's certified in Python and Java, and she's working on her CompTIA certification.
