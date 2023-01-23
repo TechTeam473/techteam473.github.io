@@ -125,6 +125,8 @@ navigation_header:
   url: /
 - title: Fable
   url: /fable/
+- title: About Us
+  url: /about/
 
 navigation_footer:
 - title: TechTeam473
@@ -151,3 +153,4 @@ fonts:
     - https://fonts.gstatic.com
   font_urls:
     - https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap
+    - https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,700;1,600;1,700&display=swap

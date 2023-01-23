@@ -26,6 +26,8 @@ sitemap: false
     }
 </style>
 
+# Fable
+
 You wake up in an unfamiliar cave with a floor covered in glyphs, your head spinning and no idea where you are. You are completely unaware of the monumental task that lays before you.
 
 ## What is Fable?
