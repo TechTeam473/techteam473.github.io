@@ -4,7 +4,6 @@ excerpt: "We're a six person team who share a love of computer science. We host 
 permalink: /about/
 ---
 
-
 <style>
     p.name-desc {
         padding: 0px;
@@ -44,7 +43,7 @@ Josi has ten years of programming experience from C++ to Dart. She has a passion
 
 <h3 class="name">Hume</h3>
 <p class="name-desc">Story-crafter ⚬ Modeler ⚬ Designer ⚬ Voice Actor</p>
-Hume is our architecture modeler. While he's certified in Java and is quite the programmer, Hume prefers the hardware side of computers. That being said, he makes his own indie games in Unreal Engine. That, coupled with his experience in Blender, makes him very capable and very exciting to work with.
+Hume is our architecture modeler. While he has experience in Java and Python and is quite the programmer, Hume prefers the hardware side of computers. That being said, he makes his own indie games in Unreal Engine. That, coupled with his experience in Blender, makes him very capable and very exciting to work with.
 
 <h3 class="name">Landen</h3>
 <p class="name-desc">Sound Designer ⚬ Story-crafter ⚬ Voice Actor</p>

@@ -10,7 +10,8 @@ excerpt: "We're a six person team who share a love of computer science. We host 
         opacity: 0;
         animation: fade-in 1s;
         animation-fill-mode: forwards;
-        animation-delay: 0.5s
+        animation-delay: 0.5s;
+        text-align: center;
     }
 
     div.button-container {
@@ -34,7 +35,7 @@ excerpt: "We're a six person team who share a love of computer science. We host 
         font-size: 3em;
     }
 
-    @keyframes fade-in{
+    @keyframes fade-in {
         from {
             opacity: 0;
         }
@@ -50,12 +51,12 @@ excerpt: "We're a six person team who share a love of computer science. We host 
 
 <div class="button-container">
     <a href="/fable/">
-        <div id="fable-button" class="button-container-child button">
+        <div id="fable-button" class="button-container-child button--pulse">
             Fable
         </div>
     </a>
     <a href="/about/">
-        <div id="about-button" class="button-container-child button">
+        <div id="about-button" class="button-container-child button--pulse">
             Our Team
         </div>
     </a>
