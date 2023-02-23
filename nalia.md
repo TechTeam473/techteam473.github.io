@@ -1,7 +1,7 @@
 ---
-title: "Fable"
+title: "The Epic of Nalia"
 excerpt: "A magical RPG"
-permalink: /fable/
+permalink: /nalia/
 indexing: false
 sitemap: false
 ---
@@ -26,11 +26,11 @@ sitemap: false
     }
 </style>
 
-# Fable
+# The Epic of Nalia
 
 You wake up in an unfamiliar cave with a floor covered in glyphs, your head spinning and no idea where you are. You are completely unaware of the monumental task that lays before you.
 
-## What is Fable?
+## What is The Epic of Nalia?
 
 Fable is developed in Unity using C#. We use Blender for our models, and several different art programs including Clip Studio Paint, GIMP, and Krita. Our concept art is drawn by hand, and then some is put through stable diffusion.
 
@@ -40,6 +40,7 @@ Fable is developed in Unity using C#. We use Blender for our models, and several
 | --------------------- | :---------------------: |
 | Player Movement       |           🟢            |
 | Object Interaction    |           🟢            |
+| UI                    |           🟡            |
 | Inventory             |           🟡            |
 | Planning              |           🟡            |
 | Building Modeling     |           🟡            |
@@ -58,8 +59,8 @@ Fable is developed in Unity using C#. We use Blender for our models, and several
     🔴 ~ Not Started 
 </p>
 
-
 ## Story Status
+
 <p>
 We have around half of our overarching story planned. We are currently working on gameplay mechanics and filling out the middle of the story.
 </p>

@@ -1,6 +1,6 @@
 ---
 title: Home
-excerpt: "We're a six person team who share a love of computer science. We host a wide variety of skills and passions that allow us to make incredible things. Our current project is Fable, an open world RPG filled with magical calamities and governmental tensions."
+excerpt: "We're a six person team who share a love of computer science. We host a wide variety of skills and passions that allow us to make incredible things. Our current project is the Epic of Nalia, an open world RPG filled with magical calamities and governmental tensions."
 ---
 
 <style>
@@ -50,8 +50,8 @@ excerpt: "We're a six person team who share a love of computer science. We host 
 <h1 class="main-text"><em>Hello. Welcome to TechTeam473</em></h1>
 
 <div class="button-container">
-    <a href="/fable/">
-        <div id="fable-button" class="button-container-child button--pulse">
+    <a href="/nalia/">
+        <div id="nalia-button" class="button-container-child button--pulse">
             Fable
         </div>
     </a>

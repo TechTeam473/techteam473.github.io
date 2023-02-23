@@ -1,6 +1,6 @@
 ---
 title: About Us
-excerpt: "We're a six person team who share a love of computer science. We host a wide variety of skills and passions that allow us to make incredible things. Our current project is Fable, an open world RPG filled with magical calamities and governmental tensions."
+excerpt: "We're a six person team who share a love of computer science. We host a wide variety of skills and passions that allow us to make incredible things. Our current project is The Epic of Nalia, an open world RPG filled with magical calamities and governmental tensions."
 permalink: /about/
 ---
 
@@ -23,7 +23,7 @@ permalink: /about/
 
 # About Us
 
-We're a six person team who share a love of computer science. We host a wide variety of skills and passions that allow us to make incredible things. Our current project is Fable, an open world RPG filled with magical calamities and governmental tensions.
+We're a six person team who share a love of computer science. We host a wide variety of skills and passions that allow us to make incredible things. Our current project is The Epic of Nalia, an open world RPG filled with magical calamities and governmental tensions.
 
 <hr class="shorter">
 
@@ -51,4 +51,4 @@ Landen is our sound designer who loves to game. From Ark: Survival Evolved to Te
 
 <h3 class="name">Molly</h3>
 <p class="name-desc">Programmer ⚬ Voice Actor</p>
-Molly is very talented in computer science, whether it be programming or hardware. She's certified in Python and Java, and she's working on her CompTIA certification.
+Molly is very talented in computer science, whether it be programming or hardware. She's can code in Python and Java, and she's working on her CompTIA ITF+ certification.
