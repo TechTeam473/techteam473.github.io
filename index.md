@@ -52,7 +52,7 @@ excerpt: "We're a six person team who share a love of computer science. We host 
 <div class="button-container">
     <a href="/nalia/">
         <div id="nalia-button" class="button-container-child button--pulse">
-            Fable
+            The Epic of Nalia
         </div>
     </a>
     <a href="/about/">
