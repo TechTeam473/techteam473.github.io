@@ -32,7 +32,7 @@ You wake up in an unfamiliar cave with a floor covered in glyphs, your head spin
 
 ## What is The Epic of Nalia?
 
-Fable is developed in Unity using C#. We use Blender for our models, and several different art programs including Clip Studio Paint, GIMP, and Krita. Our concept art is drawn by hand, and then some is put through stable diffusion.
+Nalia is developed in Unity using C#. We use Blender for our models, and several different art programs including Clip Studio Paint, GIMP, and Krita. Our concept art is drawn by hand, and then some is put through stable diffusion.
 
 ## Progress
 
