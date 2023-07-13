@@ -44,7 +44,7 @@ Nalia is developed in Unity using C#. We use Blender for our models, and several
 | Inventory             |           🟡            |
 | Planning              |           🟡            |
 | Building Modeling     |           🟡            |
-| Caracter Concept Art  |           🟡            |
+| Character Concept Art  |           🟡            |
 | World Design          |           🟡            |
 | World Modeling        |           🔴            |
 | Character Modeling    |           🔴            |
