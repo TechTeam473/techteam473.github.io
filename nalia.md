@@ -38,14 +38,15 @@ Nalia is developed in Unity using C#. We use Blender for our models, and several
 
 | <strong>Item</strong> | <strong>Status</strong> |
 | --------------------- | :---------------------: |
-| Player Movement       |           🟢            |
-| Object Interaction    |           🟢            |
-| UI                    |           🟡            |
-| Inventory             |           🟡            |
-| Planning              |           🟡            |
-| Building Modeling     |           🟡            |
-| Character Concept Art  |           🟡            |
-| World Design          |           🟡            |
+| Project Structuring   |           🟡            |
+| Player Movement       |           🔴            |
+| Object Interaction    |           🔴            |
+| UI                    |           🔴            |
+| Inventory             |           🔴            |
+| Planning              |           🔴            |
+| Building Modeling     |           🔴            |
+| Character Concept Art |           🔴            |
+| World Design          |           🔴            |
 | World Modeling        |           🔴            |
 | Character Modeling    |           🔴            |
 
@@ -62,7 +63,7 @@ Nalia is developed in Unity using C#. We use Blender for our models, and several
 ## Story Status
 
 <p>
-We have around half of our overarching story planned. We are currently working on gameplay mechanics and filling out the middle of the story.
+We have around half of our overarching story planned. We are currently structuring the project and its code. Story-wise, we're filling out the middle of the story.
 </p>
 
 <p class="no-margin">
